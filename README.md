@@ -61,7 +61,9 @@ A Huge Learning Resources For Offensive Security Players
   - <a href="https://www.offensive-security.com/labs/individual/">Offensive Security Proving Grounds</a>
   - <a href="https://tryhackme.com">TryHackMe</a>
   
-  
+<br>
+<br>
+
 # Exploit Development
   - Books
     - <a href="https://www.amazon.com/Penetration-Testing-Shellcode-network-level-vulnerabilities-ebook/dp/B076H9DD9N">Penetration Testing with Shellcode</a>
@@ -111,6 +113,8 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.vulnhub.com/">Vulnhub</a>
     - <a href="https://www.hackthebox.eu/">Hack the box</a>
 
+<br>
+<br>
 
 # Web Applications
   - Books
@@ -136,6 +140,8 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://pentesterlab.com/">Pentesterlab</a>
     - <a href="https://www.root-me.org/">root-me</a>
 
+<br>
+<br>
 
 # Mobile Applications
   - Books
@@ -157,7 +163,10 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://pentester.land/cheatsheets/2018/10/12/list-of-Intentionally-vulnerable-android-apps.html">List of intentionally vulnerable Android apps</a>
     - <a href="https://securitycompass.github.io/iPhoneLabs/">ExploitMe Mobile iPhone Labs </a>
     - <a href="https://securitycompass.github.io/AndroidLabs/">ExploitMe Mobile Android Labs </a>
-    
+
+<br>
+<br>
+
 # API
   - Books
     - <a href="https://owasp.org/www-project-api-security/">OWASP API Security Project</a>
@@ -172,6 +181,9 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://github.com/rahulunair/vulnerable-api">vulnerable-api</a>
     - <a href="https://github.com/marmicode/websheep">websheep</a>
 
+<br>
+<br>
+
 # Cloud
   - Books
     - <a href="https://www.amazon.com/AWS-Penetration-Testing-Beginners-Metasploit/dp/1839216921/">AWS Penetration Testing </a>
@@ -185,4 +197,8 @@ A Huge Learning Resources For Offensive Security Players
   - Labs
     - Create Your own lab from the books
     
-  
+<br>
+<br>
+
+# Created By
+<a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a>
