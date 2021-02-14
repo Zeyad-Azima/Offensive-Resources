@@ -131,6 +131,7 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.amazon.com/Mobile-Application-Hackers-Handbook/dp/1118958500/">Mobile applicatons hacker's handbook</a>
     - <a href="https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X/">Android hacker's handbook/</a>
     - <a href="https://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123/">iOS Hacker's Handbook</a>
+    
   - Courses
     - <a href="https://my.ine.com/CyberSecurity/learning-paths/eec5479e-a8d1-4803-817f-c016bb528639/mobile-application-penetration-testing-professional">eMAPT</a>
     - <a href="https://www.sans.org/cyber-security-courses/mobile-device-security-ethical-hacking/">SEC575</a>
