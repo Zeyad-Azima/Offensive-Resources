@@ -30,6 +30,7 @@ A Huge Learning Resources For Offensive Security Players
 - Books
   - <a href="https://www.amazon.com/Advanced-Infrastructure-Penetration-Testing-methodized-ebook/dp/B076QC8FRT">Advanced Infrastructure  Penetration testing</a>
   - <a href="https://www.amazon.com/Peter-Kim/e/B00J12259C/ref=dp_byline_cont_book_1">Hacker playbook series</a>
+  - <a href="https://www.amazon.com/Attacking-Network-Protocols-Analysis-Exploitation/dp/1593277504">Attacking Network Protocols</a>
   - <a href="https://www.amazon.com/Mastering-Linux-Advanced-Penetration-Testing/dp/178934056X/">Mastering Kali Linux for Advanced Penetration Testing </a>
   - <a href="https://www.amazon.com/Advanced-Penetration-Testing-Highly-Secured-Environments-ebook/dp/B01A14X6LE/">Advanced Penetration Testing for Highly-Secured Environments</a>
   - <a href="https://www.amazon.com/Advanced-Penetration-Testing-Hacking-Networks/dp/1119367689/">Advanced Penetration Testing </a>
