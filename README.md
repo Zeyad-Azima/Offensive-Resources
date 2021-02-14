@@ -29,14 +29,35 @@ A Huge Learning Resources For Offensive Security Players
   - <a href="https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641/">Penetration Testing: A Hands-on Introduction to Hacking</a>
   
 - Courses
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
-  - <a href=""></a>
+  - <a href="https://www.offensive-security.com/pwk-oscp/">OSCP</a>
+  - <a href="https://www.offensive-security.com/pen300-osep/">OSEP</a>
+  - <a href="https://www.offensive-security.com/wifu-oswp/">OSWP</a>
+  - <a href="https://my.ine.com/CyberSecurity/learning-paths/9a29e89e-1327-4fe8-a201-031780263fa9/penetration-testing-professional">eCPPT</a>
+  - <a href="https://my.ine.com/CyberSecurity/learning-paths/154876ad-ae9f-43d6-add4-f635cab537a7/advanced-penetration-testing">eCPTX</a>
+  - <a href="https://www.sans.org/cyber-security-courses/network-penetration-testing-ethical-hacking/">SEC560</a>
+  - <a href="https://www.sans.org/cyber-security-courses/advanced-penetration-testing-exploits-ethical-hacking/">SEC660</a>
+  - <a href="https://www.sans.org/cyber-security-courses/red-team-exercises-adversary-emulation/">SEC564</a>
+  - <a href="https://www.pentesteracademy.com/activedirectorylab">CRTP</a>
+  - <a href="https://www.pentesteracademy.com/redteamlab">CRTE</a>
+  - <a href="https://www.mile2.com/professional-ethical-hacker/">CPEH</a>
+  - <a href="https://www.mile2.com/penetration-testing-engineer-outline/">CPTE</a>
+  
+- Labs
+  - <a href="https://www.hackthebox.eu/">Hack The Box</a>
+  - <a href="https://www.vulnhub.com/">Vulnhub</a>
+  - <a href="https://www.offensive-security.com/labs/individual/">Offensive Security Proving Grounds</a>
+  - <a href="https://tryhackme.com">TryHackMe</a>
+  
+  
+# Exploit Development
+  - Books
+    - <a href=""></a>
+    - <a href=""></a>
+    - <a href=""></a>
+    - <a href=""></a>
+    - <a href=""></a>
+    - <a href=""></a>
+    - <a href=""></a>
+    - <a href=""></a>
+    - <a href=""></a>
+  
