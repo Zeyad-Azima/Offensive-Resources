@@ -95,8 +95,8 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="">SolarFTP</a>
     - <a href="">Soritong MP3 Player 1.0 </a>
     - <a href="">Xitami Webserver 2.5</a>
-    - <a href="">Vulnhub</a>
-    - <a href="">Hack the box</a>
+    - <a href="https://www.vulnhub.com/">Vulnhub</a>
+    - <a href="https://www.hackthebox.eu/">Hack the box</a>
 
 
 # Web Applications
@@ -144,7 +144,32 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://pentester.land/cheatsheets/2018/10/12/list-of-Intentionally-vulnerable-android-apps.html">List of intentionally vulnerable Android apps</a>
     - <a href="https://securitycompass.github.io/iPhoneLabs/">ExploitMe Mobile iPhone Labs </a>
     - <a href="https://securitycompass.github.io/AndroidLabs/">ExploitMe Mobile Android Labs </a>
-    - <a href=""></a>
-    - <a href=""></a>
+    
+# API
+  - Books
+    - <a href="https://owasp.org/www-project-api-security/">OWASP API Security Project</a>
+    
+  - Courses
+    - <a href="https://hackerassociate.com/training-and-certification/oaes-offensive-api-exploitation-and-security-training/">OAES Offensive API Exploitation and Security</a>
+    - <a href="https://www.pluralsight.com/courses/owasp-top-ten-api-security-playbook">OWASP Top 10: API Security Playbook</a>
+    - <a href="https://ar-ar.facebook.com/officialhackersera/posts/1387454408290281?__tn__=-R">Offensive Api  penetration testing</a>
+
+  - Labs
+    - <a href="https://github.com/payatu/Tiredful-API">Tiredful API</a>
+    - <a href="https://github.com/rahulunair/vulnerable-api">vulnerable-api</a>
+    - <a href="https://github.com/marmicode/websheep">websheep</a>
+
+# Cloud
+  - Books
+    - <a href="https://www.amazon.com/AWS-Penetration-Testing-Beginners-Metasploit/dp/1839216921/">AWS Penetration Testing </a>
+    - <a href="https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux/dp/1789136725/">Hands-On AWS Penetration Testing with Kali Linux</a>
+    - <a href="https://www.amazon.com/Pentesting-Azure-Applications-Definitive-Deployments/dp/1593278632/">Pentesting Azure Applications</a>
+    - <a href="https://www.amazon.com/Mastering-Cloud-Penetration-Testing-Sehgal/dp/1786461234/">Mastering Cloud Penetration Testing</a>
+  
+  - Courses
+    - <a href="https://www.sans.org/cyber-security-courses/cloud-penetration-testing/">SEC588</a>
+  
+  - Labs
+    - Create Your own lab from the books
     
   
