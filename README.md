@@ -24,4 +24,16 @@ A Huge Learning Resources For Offensive Security Players
   - <a href="https://www.amazon.com/Cybersecurity-state-art-organization-cybercriminals/dp/183882779X/">Cybersecurity - Attack and Defense Strategies</a>
   - <a href="https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/">RTFM: Red Team Field Manual</a>
   - <a href="https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641/">Penetration Testing: A Hands-on Introduction to Hacking</a>
+  
+- Courses
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
+  - <a href=""></a>
   - <a href=""></a>
