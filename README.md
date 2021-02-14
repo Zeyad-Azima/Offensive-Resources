@@ -139,7 +139,7 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.udemy.com/course/bug-bounty-hunting-practical-android-penetration-testing/">ANDROID Hacking & Penetration Testing</a>
     - <a href="https://www.udemy.com/course/hacking-and-pentesting-ios-applications/">Hacking and Pentesting iOS Applications </a>
     
-  -Labs
+  - Labs
     - <a href="http://damnvulnerableiosapp.com/">Damn Vulnerable iOS Application (DVIA)</a>
     - <a href="https://pentester.land/cheatsheets/2018/10/12/list-of-Intentionally-vulnerable-android-apps.html">List of intentionally vulnerable Android apps</a>
     - <a href="https://securitycompass.github.io/iPhoneLabs/">ExploitMe Mobile iPhone Labs </a>
