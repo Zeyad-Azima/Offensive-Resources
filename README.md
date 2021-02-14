@@ -8,6 +8,9 @@ A Huge Learning Resources For Offensive Security Players
 # Mind Map
 <img src="img/Offensive-Resources.png">
 
+<br>
+<br>
+<br>
 
 # Infrastructure 
 
