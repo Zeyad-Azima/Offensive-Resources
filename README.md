@@ -6,6 +6,13 @@ A Huge Learning Resources For Offensive Security Players
 <br>
 <br>
 
+# Mind Map
+<img src="img/Offensive-Resources.png">
+
+<br>
+<br>
+<br>
+
 # Content
   - <a href="#infrastructure">Infrastructure</a>
   - <a href="#exploit-development">Exploit Development</a>
@@ -13,10 +20,7 @@ A Huge Learning Resources For Offensive Security Players
   - <a href="#mobile-applications">Mobile Applications</a>
   - <a href="#api">API</a>
   - <a href="#cloud">Cloud</a>
-
-# Mind Map
-<img src="img/Offensive-Resources.png">
-
+  
 <br>
 <br>
 <br>
