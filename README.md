@@ -20,6 +20,7 @@ A Huge Learning Resources For Offensive Security Players
   - <a href="#mobile-applications">Mobile Applications</a>
   - <a href="#api">API</a>
   - <a href="#cloud">Cloud</a>
+  - <a href="#social-engineering">Social Engineering</a>
   
 <br>
 <br>
