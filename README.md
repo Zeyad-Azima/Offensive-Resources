@@ -229,4 +229,4 @@ A Huge Learning Resources For Offensive Security Players
 # Created By
 <a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a>
 
-# Thans u all and have a good hacking time to make internet more secure. :)
+# Thank u all and have a good hacking time to make internet more secure. :)
