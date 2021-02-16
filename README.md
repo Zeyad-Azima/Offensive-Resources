@@ -202,5 +202,28 @@ A Huge Learning Resources For Offensive Security Players
 <br>
 <br>
 
+# Social Engineering
+  - Books
+    - <a href="https://www.amazon.com/Social-Engineering-Science-Human-Hacking/dp/111943338X/">Social Engineering: The Science of Human Hacking</a>
+    - <a href="https://www.amazon.com/Social-Engineering-Art-Human-Hacking/dp/B08B6ZCT57/">Social Engineering: The Art of Human Hacking</a>
+    - <a href="https://www.amazon.com/Social-Engineers-Playbook-Practical-Pretexting/dp/0692306617/">The Social Engineer's Playbook</a> 
+    - <a href="https://www.amazon.com/Social-Engineering-Hacking-Systems-Societies-ebook/dp/B07XHP7MQ5/">Social Engineering: Hacking Systems, Nations, and Societies</a>
+    - <a href="https://www.amazon.com/Learn-Social-Engineering-internationally-renowned-ebook/dp/B079HYPC27/">Learn Social Engineering</a>
+    
+ 
+  - Courses
+    - <a href="https://www.udemy.com/course/learn-social-engineering-from-scratch/">Learn Social Engineering From Scratch</a>
+    - <a href="https://www.udemy.com/course/learn-malware-social-engineering-and-osint-for-hacking/">The Complete Social Engineering: Phishing & Malware</a>
+    - <a href="https://www.social-engineer.com/training-courses/advanced-practical-social-engineering-training/">Advanced Social Engineering Training</a>
+    - <a href="https://www.cybrary.it/course/social-engineering/">Social Engineering (Cybrary)</a>
+    
+    
+ - Labs
+  - Bro, it's about human hacking. Just hack yourself xD
+
+
+<br>
+<br>
+
 # Created By
-<a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a>
+<a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a> & <a href="https://www.linkedin.com/in/albarbari/">Mohammed F. Al-barbari</a>
