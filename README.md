@@ -43,6 +43,11 @@ A Huge Learning Resources For Offensive Security Players
   - <a href="https://www.amazon.com/Cybersecurity-state-art-organization-cybercriminals/dp/183882779X/">Cybersecurity - Attack and Defense Strategies</a>
   - <a href="https://www.amazon.com/Rtfm-Red-Team-Field-Manual/dp/1494295504/">RTFM: Red Team Field Manual</a>
   - <a href="https://www.amazon.com/Penetration-Testing-Hands-Introduction-Hacking/dp/1593275641/">Penetration Testing: A Hands-on Introduction to Hacking</a>
+  - <a href="https://www.amazon.com/Hacking-Firewalls.../dp/B085LS67BH">Hacking: Hacking Firewalls & Bypassing Honeypot</a>
+  - <a href="https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633">Red Team Development and Operations: A practical guide </a>
+  - <a href="https://www.amazon.com/Hands-Red-Team-Tactics-operations/dp/1788995236">Hands-On Red Team Tactics</a>
+  - <a href="https://www.amazon.com/Building-Pentesting-Lab-Wireless-Networks-ebook/dp/B01A8T8XGA">Building a Pentesting Lab for Wireless Networks</a>
+  
   
 - Courses
   - <a href="https://www.offensive-security.com/pwk-oscp/">OSCP</a>
@@ -73,7 +78,10 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security-ebook/dp/B004P5O38Q/">The Shellcoder's Handbook</a>
     - <a href="https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson-ebook/dp/B004OEJN3I/">Hacking: The Art of Exploitation</a>
     - <a href="https://www.amazon.com/Bug-Hunters-Diary-Software-Security/dp/1593273851/">A Bug Hunter's Diary</a>
-  
+    - <a href="https://www.amazon.com/Buffer-Overflow-Attacks-Exploit-Prevent-ebook/dp/B002C1B7SE/">Buffer Overflow Attacks: Detect, Exploit, Prevent</a>
+    - <a href="https://www.amazon.com/Linux-Exploit-Development-Beginners-Step-ebook/dp/B082DMZHK2">Linux Exploit Development for Beginners</a>
+
+
   - Courses
     - <a href="https://www.offensive-security.com/ctp-osce/">OSCE</a>
     - <a href="https://www.offensive-security.com/awe-osee/">OSEE</a>
@@ -127,6 +135,9 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616">Real World Bug Hunting</a>
     - <a href="https://payhip.com/ghostlulz">Bug Bounty playbook part 1 & 2</a>
     - <a href="https://www.amazon.com/Mastering-Modern-Web-Penetration-Testing/dp/1785284584">Mastering Modern Web Penetration Testing</a>
+    - <a href="https://www.amazon.com/Mastering-Kali-Linux-Penetration-Testing-ebook/dp/B0721264KJ">Mastering Kali Linux for Web Penetration Testing</a>
+    - <a href="https://www.amazon.com/gp/product/B078MRV57M">Kali Linux Web Penetration Testing Cookbook</a>
+    - <a href=""></a>
     
   - Courses
     - <a href="https://www.offensive-security.com/awae-oswe/">OSWE</a>
