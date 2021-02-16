@@ -226,4 +226,6 @@ A Huge Learning Resources For Offensive Security Players
 <br>
 
 # Created By
-<a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a> & <a href="https://www.linkedin.com/in/albarbari/">Mohammed F. Al-barbari</a>
+<a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a>
+
+# Thans u all and have a good hacking time to make internet more secure. :)
