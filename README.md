@@ -1,4 +1,5 @@
 # Offensive-Resources
+لا تجعل العلم ينسيك العليم فا اذكر الله
 A Huge Learning Resources For Offensive Security Players 
 
 <img src="img/Offensive.png">
