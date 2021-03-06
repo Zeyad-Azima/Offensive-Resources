@@ -86,7 +86,7 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.amazon.com/Buffer-Overflow-Attacks-Exploit-Prevent-ebook/dp/B002C1B7SE/">Buffer Overflow Attacks: Detect, Exploit, Prevent</a>
     - <a href="https://www.amazon.com/Linux-Exploit-Development-Beginners-Step-ebook/dp/B082DMZHK2">Linux Exploit Development for Beginners</a>
 
-
+ 
   - Courses
     - <a href="https://www.offensive-security.com/ctp-osce/">OSCE</a>
     - <a href="https://www.offensive-security.com/awe-osee/">OSEE</a>
