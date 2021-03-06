@@ -12,6 +12,7 @@ A Huge Learning Resources For Offensive Security Players
 <br>
 
 # Mind Map
+<img src="img/Offensive-Resources.png">
 
 <br>
 <br>
