@@ -259,7 +259,7 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.amazon.com/Gray-Hat-Creating-Automating-Security/dp/1593277598">Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools</a>
     - <a href="https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659">Black Hat Go: Go Programming For Hackers and Pentesters </a>
     - <a href="https://www.amazon.com/Security-Go-Explore-Golang-services/dp/1788627911">Security with Go</a>
-    - <a href="https://www.amazon.com/Penetration-Testing-Perl-Douglas-Berdeaux/dp/1783283459">Penetration Testing with Per</a>
+    - <a href="https://www.amazon.com/Penetration-Testing-Perl-Douglas-Berdeaux/dp/1783283459">Penetration Testing with PerL</a>
     - <a href="https://www.amazon.com/Black-Hat-Ruby-programming-Pentesters/dp/B08JHSF6GT">Black Hat Ruby</a>
     
   - Courses
