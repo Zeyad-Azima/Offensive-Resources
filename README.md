@@ -99,6 +99,15 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.pentesteracademy.com/course?id=41">Reverse Engineering Win32 Applications</a>
     - <a href="https://www.pentesteracademy.com/course?id=40">Reverse Engineering Linux 32-bit Applications</a>
     - <a href="https://www.pentesteracademy.com/course?id=13">Exploiting Simple Buffer Overflows on Win32</a>
+    - <a href="https://www.udemy.com/course/reverse-engineering-and-exploit-development/">Reverse Engineering and Exploit Development </a>
+    - <a href="https://www.udemy.com/course/exploit-development/">Exploit Development for Linux (x86)</a>
+    - <a href="https://www.udemy.com/course/64bit-linux-exploit-development/">Exploit Development for Linux x64</a>
+    - <a href="https://www.udemy.com/course/introduction-to-exploitzero-day-discovery-and-development/">Introduction to Exploit/Zero-Day Discovery and Development</a>
+    - <a href="https://www.udemy.com/course/exploit-development-from-scratch/">Exploit Development From Scratch</a>
+    - <a href="https://www.udemy.com/course/hands-on-exploit-development/">Hands-on Fuzzing and Exploit Development(Part 1)</a>
+    - <a href="https://www.udemy.com/course/hands-on-exploit-development-advanced/">Hands-on Fuzzing and Exploit Development(Part 2)</a>
+    - <a href="https://zdresearch.com/training/exploit-development/">ZDResearch Exploit Development</a>
+    - 
     
   - Labs
     - <a href="https://github.com/stephenbradshaw/vulnserver">Vulnserver</a>
@@ -142,7 +151,6 @@ A Huge Learning Resources For Offensive Security Players
     - <a href="https://www.amazon.com/Mastering-Modern-Web-Penetration-Testing/dp/1785284584">Mastering Modern Web Penetration Testing</a>
     - <a href="https://www.amazon.com/Mastering-Kali-Linux-Penetration-Testing-ebook/dp/B0721264KJ">Mastering Kali Linux for Web Penetration Testing</a>
     - <a href="https://www.amazon.com/gp/product/B078MRV57M">Kali Linux Web Penetration Testing Cookbook</a>
-    - <a href=""></a>
     
   - Courses
     - <a href="https://www.offensive-security.com/awae-oswe/">OSWE</a>
@@ -241,6 +249,50 @@ A Huge Learning Resources For Offensive Security Players
 
 <br>
 <br>
+
+# Offensive Programming
+  - Books
+    - <a href="https://www.amazon.com/Hands-Penetration-Testing-Python-intelligent/dp/178899082X">Hands-On Penetration Testing with Python</a>
+    - <a href="https://www.amazon.com/Python-Penetration-Testing-Cookbook-post-exploitation/dp/1784399779">Python Penetration Testing Cookbook</a>
+    - <a href="https://www.amazon.com/Python-Offensive-PenTest-practical-penetration/dp/1788838971">Python for Offensive PenTest</a>
+    - <a href="https://www.amazon.com/Black-Hat-Python-Programming-Pentesters/dp/1593275900">Black Hat Python</a>
+    - <a href="https://www.amazon.com/Gray-Hat-Creating-Automating-Security/dp/1593277598">Gray Hat C#: A Hacker's Guide to Creating and Automating Security Tools</a>
+    - <a href="https://www.amazon.com/Black-Hat-Go-Programming-Pentesters/dp/1593278659">Black Hat Go: Go Programming For Hackers and Pentesters </a>
+    - <a href="https://www.amazon.com/Security-Go-Explore-Golang-services/dp/1788627911">Security with Go</a>
+    - <a href="https://www.amazon.com/Penetration-Testing-Perl-Douglas-Berdeaux/dp/1783283459">Penetration Testing with Per</a>
+    - <a href="https://www.amazon.com/Black-Hat-Ruby-programming-Pentesters/dp/B08JHSF6GT">Black Hat Ruby</a>
+    
+  - Courses
+    - I encourage you to read the books, cause there is a lot of courses for offensive programming but most of it is using python.
+    - <a href="https://www.udemy.com/course/learn-python-and-ethical-hacking-from-scratch/">Learn Python & Ethical Hacking From Scratch</a>
+    - <a href="https://www.udemy.com/course/ethical-hacking-python/">The Complete Python Hacking Course: Beginner to Advanced! </a>
+
+  - Labs
+    - First of all try to create automation tools for your tasks. also you can search for offensive tools and try to write one on your own way.
+    - Tools:
+      - <a href="">Subdomain Enumeration</a>
+      - <a href="">Directory Bruteforcing</a>
+      - <a href="">Live Subdomain checker</a>
+      - <a href="">Google Dorking</a>
+      - <a href="">Extract javascript urls using page source</a>
+      - <a href="">Reverse & Bind Shells</a>
+      - <a href="">Protocol Enumeration</a>
+      - <a href="">Port Scanner (TCP & UDP)</a>
+      - <a href="">Hash & Password Cracking</a>
+      - <a href="">Fuzzer</a>
+      - <a href="">Malware ( Keylogger, Spyware, CryptoMalware, etc)</a>
+      - <a href="">Packet Sniffer</a>
+      - <a href="">Wifi Scanner or Bruteforcer</a>
+      - <a href="">Vulnerability Scanner ( Web, Network & System Vulnerabilities, etc )</a>
+      - <a href="">Exploition Tool ( Try to write an exploition tool for known vulnerability [e.x: Vsftpd backdoor exploition tool] ) </a>
+      - <a href="">Network Sniffer</a>
+      - <a href="">MAC address Changer</a>
+      - <a href="">Network Scanner</a>
+
+
+<br>
+<br>
+
 
 # Created By
 <a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a>
