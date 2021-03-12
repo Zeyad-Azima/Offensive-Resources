@@ -144,7 +144,7 @@ A Huge Learning Resources For Offensive Security Players
 
 # Web Applications
   - Books
-    - <a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/">Web application's hackers handbook</a>
+    - <a href="https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/">Web Application Hacker's Handbook</a>
     - <a href="https://portswigger.net/web-security/all-materials">Portswigger learning materials</a>
     - <a href="https://owasp.org/www-project-web-security-testing-guide/v42/">Owasp web Testing Guide</a>
     - <a href="https://www.amazon.com/Real-World-Bug-Hunting-Field-Hacking/dp/1593278616">Real World Bug Hunting</a>
