@@ -53,6 +53,7 @@ A Huge Learning Resources For Offensive Security Players
   - <a href="https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633">Red Team Development and Operations: A practical guide </a>
   - <a href="https://www.amazon.com/Hands-Red-Team-Tactics-operations/dp/1788995236">Hands-On Red Team Tactics</a>
   - <a href="https://www.amazon.com/Building-Pentesting-Lab-Wireless-Networks-ebook/dp/B01A8T8XGA">Building a Pentesting Lab for Wireless Networks</a>
+  - <a href="https://www.amazon.com/Building-Virtual-Pentesting-Advanced-Penetration-ebook/dp/B01JLBMC8G">Building Virtual Pentesting Labs for Advanced Penetration Testing></a>
   
   
 - Courses
