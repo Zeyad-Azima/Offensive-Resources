@@ -18,7 +18,7 @@
 <br>
 
 # Mind Map
-<img src="img/OffensiveResources.png">
+<img src="img/Offensive-Resources-V2.png">
 
 <br>
 <br>
