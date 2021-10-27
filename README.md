@@ -12,7 +12,7 @@
  - Added IoT & Hardware Penetration Testing Section
  - Added ICS & SCADA Penetration Testing Section
 
-<img src="img/">
+<img src="img/Offensive.png">
 
 <br>
 <br>
