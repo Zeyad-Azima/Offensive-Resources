@@ -318,7 +318,7 @@
     - <a href="https://www.sans.org/cyber-security-courses/cloud-penetration-testing/">SEC588</a>
   
   - Labs
-    - <a href"https://github.com/juanjoSanz/aws-pentesting-lab">AWS Pen-Testing Laboratory</a>
+    - <a href="https://github.com/juanjoSanz/aws-pentesting-lab">AWS Pen-Testing Laboratory</a>
     - Create Your own lab from the books
 <br>
 <br>
