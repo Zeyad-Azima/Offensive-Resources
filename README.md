@@ -13,7 +13,7 @@ A Huge Learning Resources with Labs For Offensive Security Players.
  - Added IoT & Hardware Penetration Testing Section
  - Added ICS & SCADA Penetration Testing Section
 
-<img src="img/Offensive.png">
+<img src="img/">
 
 <br>
 <br>
