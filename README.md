@@ -1,7 +1,6 @@
 # Offensive-Resources V2
-
-لا تجعل العلم ينسيك العليم فا اذكر الله
-
+((اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا))
+<hr>
 <br>
 
 A Huge Learning Resources with Labs For Offensive Security Players.
