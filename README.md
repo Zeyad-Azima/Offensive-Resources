@@ -45,7 +45,7 @@
 # Infrastructure
 
 - Books
-  - <a href"https://www.amazon.com/Hackers-Handbook-Strategy-Breaking-Defending/dp/0849308887">The Hacker's Handbook</a> Note: This book is an old book but its really amazing and ninja
+  - <a href"https://www.amazon.com/Hackers-Handbook-Strategy-Breaking-Defending/dp/0849308887">The Hacker's Handbook</a> 
   - <a href="https://www.amazon.com/Advanced-Infrastructure-Penetration-Testing-methodized-ebook/dp/B076QC8FRT">Advanced Infrastructure  Penetration testing</a>
   - <a href="https://www.amazon.com/Peter-Kim/e/B00J12259C/ref=dp_byline_cont_book_1">Hacker playbook series</a>
   - <a href="https://www.amazon.com/Art-Network-Penetration-Testing-company/dp/1617296821">The Art of Network Penetration Testing</a>
