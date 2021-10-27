@@ -250,6 +250,7 @@
     - <a href="https://www.sans.org/cyber-security-courses/web-app-penetration-testing-ethical-hacking/">SEC542</a>
     - <a href="https://www.sans.org/cyber-security-courses/advanced-web-app-penetration-testing-ethical-hacking/">SEC642</a>
     - <a href="https://hackersera.com/p/?page=online-training">Offensive bug bounty hunter part 1 &2 hackersera</a>
+    - <a href="https://hakin9.org/product/web-application-attacks-and-api-hacking-w51/">Web Application Attacks and API Hacking (W51)</a>
     
   - Labs
     - <a href="http://sourceforge.net/projects/bwapp/files/bee-box/">bWAPP</a>
