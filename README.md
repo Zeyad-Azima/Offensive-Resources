@@ -110,6 +110,7 @@
     - <a href="https://www.offensive-security.com/wifu-oswp/">OSWP</a>
     - <a href="https://www.pentesteracademy.com/course?id=9">Wi-Fi Security and Pentesting</a>
     - <a href="https://www.udemy.com/course/wi-fi-password-penetration-testing-course/">Wi-Fi Hacking and Wireless Penetration Testing Course </a>
+    - <a href="https://www.sans.org/cyber-security-courses/wireless-penetration-testing-ethical-hacking/">SEC617: Wireless Penetration Testing and Ethical Hacking</a>
     
   - Labs
     - <a href="https://www.amazon.com/Building-Pentesting-Lab-Wireless-Networks/dp/1785283154">Building a Pentesting Lab for Wireless Networks</a>
