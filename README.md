@@ -297,6 +297,7 @@
     - <a href="https://hackerassociate.com/training-and-certification/oaes-offensive-api-exploitation-and-security-training/">OAES Offensive API Exploitation and Security</a>
     - <a href="https://www.pluralsight.com/courses/owasp-top-ten-api-security-playbook">OWASP Top 10: API Security Playbook</a>
     - <a href="https://ar-ar.facebook.com/officialhackersera/posts/1387454408290281?__tn__=-R">Offensive Api  penetration testing</a>
+    - <a href="https://hakin9.org/product/web-application-attacks-and-api-hacking-w51/">Web Application Attacks and API Hacking (W51)</a>
 
   - Labs
     - <a href="https://github.com/payatu/Tiredful-API">Tiredful API</a>
