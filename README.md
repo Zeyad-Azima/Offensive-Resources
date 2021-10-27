@@ -1,9 +1,7 @@
 # Offensive-Resources V2
 ((اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا))
 <hr>
-<br>
-
-A Huge Learning Resources with Labs For Offensive Security Players.
+# A Huge Learning Resources with Labs For Offensive Security Players.
 
 # What is new in V2 ?
  - New Labs, Courses & Books Have been added to whole old sections
