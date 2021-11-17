@@ -140,7 +140,7 @@
 <br>
 <br>
 
-# ICS & SCADA
+# ICS and SCADA
   - Books
     - <a href="https://www.amazon.com/Hacking-Exposed-Industrial-Control-Systems/dp/1259589714">Hacking Exposed Industrial Control Systems: ICS and SCADA Security Secrets & Solutions</a>
     - <a href="https://www.amazon.com/Hacking-SCADA-Industrial-Control-Systems/dp/1533022062">Hacking SCADA/Industrial Control Systems: The Pentest Guide</a>
