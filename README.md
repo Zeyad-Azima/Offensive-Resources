@@ -28,7 +28,7 @@
   - <a href="#infrastructure">Infrastructure</a>
   - <a href="#Wireless">Wireless</a>
   - <a href="#IoT-&-Hardware">IoT & Hardware</a>
-  - <a href="#ICS-&-SCADA">ICS and SCADA</a>
+  - <a href="#ICS-and-SCADA">ICS and SCADA</a>
   - <a href="#exploit-development">Exploit Development</a>
   - <a href="#web-applications">Web Applications</a>
   - <a href="#mobile-applications">Mobile Applications</a>
