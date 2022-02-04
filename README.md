@@ -36,7 +36,14 @@
   - <a href="#cloud">Cloud</a>
   - <a href="#Reverse-Engineering">Reverse Engineering</a>
   - <a href="#social-engineering">Social Engineering</a>
-  - <a href="#offensive-programming">Offensive Programming</a>
+  - <a href="#">Offensive Programming</a>
+  - <a href="#">Offensive Programming</a>
+  - <a href="#">Offensive Programming</a>
+  - <a href="#">Offensive Programming</a>
+  - <a href="#">Offensive Programming</a>
+  - <a href="#">Offensive Programming</a>
+  - <a href="#">Offensive Programming</a>
+  - <a href="#">Offensive Programming</a>
   
 <br>
 <br>
@@ -422,6 +429,196 @@
 <br>
 <br>
 
+# Blockchain
+
+ - Books
+  - <a href="https://www.amazon.com/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3">Bitcoin and Blockchain Security</a>
+  - <a href="https://www.amazon.com/Blockchain-Technology-Hacking-Financial-Framework-ebook/dp/B07221VJ1S">Blockchain Technology And Hacking</a>
+  - <a href="https://www.packtpub.com/product/hands-on-cybersecurity-with-blockchain/9781788990189">Hands-On Cybersecurity with Blockchain </a>
+  - <a href=""></a>
+  - <a href=""></a>
+  
+- Courses
+  - <a href="https://blockchaintrainingalliance.com/products/cbsp">Certified Blockchain Security Professional (CBSP)</a>
+  - <a href="https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/">SEC554: Blockchain and Smart Contract Security</a>
+  - <a href="https://academy.101blockchains.com/courses/certified-blockchain-security-expert">Blockchain Security Expert (CBSE)</a>
+  - <a href="https://hakin9.org/course/attack-and-defence-in-blockchain-technologies-w39/"Attack and Defence in Blockchain Technologies (W39)></a>
+  - <a href="https://www.dasp.co/
+">Decentralized Application Security Project </a>
+
+
+- Labs
+  - <a href="https://github.com/ConsenSys/smart-contract-best-practices">smart contract security best practices</a>
+  - <a href="https://github.com/nccgroup/GOATCasino">GOATCasino</a>
+  - <a href="https://ethernaut.openzeppelin.com/level/0x4E73b858fD5D7A5fc1c3455061dE52a53F35d966">Ethernaut</a>
+
+
+<br>
+<br>
+
+
+
+# Car Hacking
+
+ - Books
+   - <a href="https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032">The Car Hacker's Handbook</a>
+   - <a href="https://www.amazon.com/Hacking-Connected-Cars-Techniques-Procedures/dp/1119491800">Hacking Connected Cars</a>
+
+ - Courses
+   - <a href="https://www.udemy.com/course/carhacking/">CAR HACKING 101</a>
+   - <a href="https://www.udemy.com/course/automotive-hacking-for-beginners/">Automotive hacking for Beginners</a>
+   - <a href="https://cyberweek.ae/2021/courses/car-hacking-training-automotive-cybersecurity-and-in-vehicle-networks-for-beginners-hitb-cyberweek-2021/">Car Hacking Training: Automotive Cybersecurity and In-Vehicle Networks for Beginners</a>
+   - <a href="https://quarkslab.com/training-practical-car-hacking/">Practical car hacking</a>
+   - <a href=""></a>
+
+ - Labs
+   - Setup your lab from the courses & books
+
+
+
+<br>
+<br>
+
+
+# Game Hacking
+
+ - Books
+   - <a href="https://www.amazon.com/Exploiting-Online-Games-Massively-Distributed/dp/0132271915">Exploiting Online Games</a>
+   - <a href="https://www.amazon.com/Game-Hacking-Developing-Autonomous-Online/dp/1593276699">Game Hacking: Developing Autonomous Bots for Online Games</a>
+   - <a href="https://www.amazon.com/Hacking-Video-Game-Consoles-ExtremeTech/dp/0764578065">Hacking Video Game Consoles</a>
+   - <a href="https://www.amazon.com/Game-Console-Hacking-PlayStation-Nintendo/dp/1931836310">Game Console Hacking: Xbox, PlayStation, Nintendo, Game Boy, Atari and Sega</a>
+   - <a href="https://www.amazon.com/Hacking-Xbox-Introduction-Reverse-Engineering/dp/1593270291">Hacking the Xbox: An Introduction to Reverse Engineering</a>
+
+
+ - Courses
+   - <a href="https://www.youtube.com/playlist?list=PLt9cUwGw6CYG1b4L76vZ49tvI2mfmRSCl">CS420 Game Hacking Course</a>
+   - <a href="https://www.udemy.com/course/playhack/">Learn How To Code a Hack For ANY Game! - Game Hacking </a>
+   - <a href="https://www.udemy.com/course/cheat-engine-game-hacking-basics/">Game Hacking: Cheat Engine Game Hacking Basics</a>
+   - <a href="https://www.youtube.com/playlist?list=PLt9cUwGw6CYFSoQHsf9b12kHWLdgYRhmQ">Game Hacking Shenanigans - Game Hacking Tutorial Series</a>
+   - <a href="https://www.youtube.com/playlist?list=PL0DAC43CDE5EF7694">Game Hacking Tutorial</a>
+
+
+ - Labs
+   - Setup your lab from the courses & books
+
+<br>
+<br>
+
+
+# Source Code Review
+
+ - Books
+   - <a href="https://www.amazon.com/SECURE-COMPUTER-SOFTWARE-DEVELOPMENT-VULNERABILITY-ebook/dp/B01NAGF70E">SECURE COMPUTER SOFTWARE DEVELOPMENT: INTRODUCTION TO VULNERABILITY DETECTION TOOLS</a>
+   - <a href="https://www.amazon.com/Software-Vulnerability-Programming-Herbert-Thompson/dp/1584503580">Software Vulnerability Guide</a>
+   - <a href="https://www.amazon.de/-/en/Brian-Chess/dp/0321424778">ecure Programming with Static Analysis: Getting Software Security Right with Static Analysis</a>
+   - <a href="https://owasp.org/www-pdf-archive/OWASP_Code_Review_Guide_v2.pdf">OWASP Code Review Guide v2</a>
+   - <a href="https://www.codacy.com/ebooks/guide-to-code-reviews-I">The ultimate guide to code reviews - Edition I</a>
+
+
+ - Courses (Tutorials)
+   - <a href="https://www.youtube.com/playlist?list=PLOeXMuu5HOMoYdidoH6UlghfrVVkzZ_cf"></a>
+   - <a href="https://www.youtube.com/watch?v=fb-t3WWHsMQ"></a>
+   - <a href="https://www.youtube.com/watch?v=eQ1I0wzS8p0"></a>
+   - <a href="https://www.youtube.com/watch?v=kpf3UkMc5Y4"></a>
+   - <a href="https://www.youtube.com/watch?v=rAwxFw25x3E"></a>
+   - <a href="https://www.youtube.com/watch?v=A8CNysN-lOM"></a>
+
+
+ - Labs
+   - <a href="https://pentesterlab.com/exercises?utf8=%E2%9C%93&query=code+review">Pentesterlab Code Review</a>
+   - <a href="https://github.com/h4x0r101/Damn-Vulnerable-Source-Code">Damn Vulnerable Source Code</a>
+   - <a href="https://github.com/uleroboticsgroup/SVCP4CDataset
+"></a>
+
+
+
+<br>
+<br>
+
+
+# Telecom
+
+
+ - Books
+  - <a href="https://www.amazon.com/Security-Telecommunications-Networks-Advances-Information-ebook/dp/B002C73P2E
+">Security for Telecommunications Networks</a>
+
+
+ - Courses
+  - <a href="https://www.youtube.com/watch?v=3XUo7UBn28o"></a>
+  - <a href="https://www.youtube.com/watch?v=_f1SByh6f4Q"></a>
+
+ - Labs
+  - Setup your lab from the courses & books 
+
+
+<br>
+<br>
+
+
+# Malware Development
+
+- Books
+ - You can read malware analysis books to get a deep understanding of malwares
+
+
+- Courses
+  - <a href="https://institute.sektor7.net/red-team-operator-malware-development-essentials">RED TEAM Operator: Malware Development Essentials Course</a>
+  - <a href="https://institute.sektor7.net/rto-maldev-intermediate">RED TEAM Operator: Malware Development Intermediate Course</a>
+  - <a href="https://www.udemy.com/course/build-undetectable-malware-using-c-language-ethical-hacking/">Build Undetectable Malware Using C Language: Ethical Hacking</a>
+  - <a href="https://www.udemy.com/course/malware-development-beginner-level/">Practical Malware Development For Beginners</a>
+  - <a href="https://www.udemy.com/course/coding-botnet-backdoor-in-python-for-ethical-hacking/">Coding Botnet & Backdoor In Python For Ethical Hacking</a>
+  - <a href="https://www.udemy.com/course/ehf-maldev-in-windows/">Ethical Hacking Foundations: Malware Development in Windows</a>
+  
+  
+ - Labs
+  - No need for online labs you need to write a malicious code
+   
+   
+<br>
+<br>
+
+# VOIP
+
+ - Books
+   - <a href="https://www.amazon.com/Hacking-VoIP-Protocols-Attacks-Countermeasures/dp/1593271638">Hacking VoIP: Protocols, Attacks, and Countermeasures</a>
+   - <a href="https://www.amazon.com/Hacking-Exposed-VoIP-Security-Solutions/dp/0072263644">Hacking Exposed VoIP: Voice Over IP Security Secrets & Solutions</a>
+   - <a href="https://www.amazon.com/Hacking-Exposed-Communications-Security-Solutions/dp/0071798765">Hacking Exposed Unified Communications & VoIP Security Secrets & Solutions, Second Edition</a>
+   
+   
+ - Courses
+   - <a href="https://hakin9.org/product/w47-voip-pentesting/">VoIP Pentesting (W47)</a>
+   - <a href="https://academy.ehacking.net/p/voip-hacking-penetration-testing-training">VoIP Hacking & Penetration Testing Training</a>
+   - <a href="https://www.voip.school/p/voip-hacking">
+VoIP pentest and SIP hacking</a>
+
+
+ - Labs
+  - Setup your lab from the courses & books
+
+
+<br>
+<br>
+
+# Blockchain
+ - Books
+  - <a href="https://www.amazon.com/RFID-Security-Frank-Thornton-ebook/dp/B002C4KMKA">RFID Security</a>
+  - <a href="https://www.amazon.com/Inside-Radio-Attack-Defense-Guide/dp/9811084467">Inside Radio: An Attack and Defense Guide</a>
+
+
+ - Courses
+  - <a href="https://www.udemy.com/course/the-vulnerability-of-rfid-tag/">Ethical RFID Hacking</a>
+  - <a href="https://training.hackersera.com/p/?page=online-training#collapsesdr1">SDR Exploitation</a>
+  - <a href="https://www.udemy.com/course/software-defined-radio/">SDR for Ethical Hackers and Security Researchers </a>
+  - <a href="https://www.udemy.com/course/advance-sdr-for-ethical-hackers-security-researchers/">Advance SDR for Ethical Hackers Security Researchers 2.0</a>
+  - <a href="https://www.udemy.com/course/software-defined-radio-3/">SDR for Ethical Hackers and Security Researchers 3.0</a>
+
+
+ - Labs
+- Setup your lab from the courses & books
+
+<br>
+<br>
 
 # Created By
 <a href="https://www.linkedin.com/in/zer0verflow/">Zeyad Azima</a>
