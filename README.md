@@ -1,16 +1,19 @@
-# Offensive-Resources V2
+# Offensive-Resources V3
 ((اللَّهُمَّ انْفَعْنِي بِمَا عَلَّمْتَنِي، وَعَلِّمْنِي مَا يَنْفَعُنِي، وَزِدْنِي عِلْمًا))
 <hr>
 
 # A Huge Learning Resources with Labs For Offensive Security Players.
 <br>
 
-# What is new in V2 ?
- - New Labs, Courses & Books Have been added to whole old sections
- - Added Reverse Engineering Section
- - Added Wireless Penetration Testing Section
- - Added IoT & Hardware Penetration Testing Section
- - Added ICS & SCADA Penetration Testing Section
+# What is new in V3 ?
+ - Added Blockchain Security Section
+ - Added Game Hacking Section
+ - Added Car Hacking Section
+ - Added Source Code Review Section
+ - Added Telecom Security Section
+ - Added Malware Development Section
+ - Added VOIP security Section
+ - Added RFID & SDR Section
 
 <img src="img/Offensive.png">
 
@@ -18,7 +21,7 @@
 <br>
 
 # Mind Map
-<img src="img/Offensive-Resources-V2.png">
+<img src="img/OffResv3.png">
 
 <br>
 <br>
