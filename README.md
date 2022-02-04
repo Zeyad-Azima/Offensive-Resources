@@ -26,24 +26,25 @@
 
 # Content
   - <a href="#infrastructure">Infrastructure</a>
-  - <a href="#Wireless">Wireless</a>
-  - <a href="#IoT-&-Hardware">IoT & Hardware</a>
-  - <a href="#ICS-and-SCADA">ICS and SCADA</a>
+  - <a href="#wireless">Wireless</a>
+  - <a href="#iot--hardware">IoT & Hardware</a>
+  - <a href="#ics-and-scada">ICS and SCADA</a>
   - <a href="#exploit-development">Exploit Development</a>
   - <a href="#web-applications">Web Applications</a>
   - <a href="#mobile-applications">Mobile Applications</a>
   - <a href="#api">API</a>
   - <a href="#cloud">Cloud</a>
-  - <a href="#Reverse-Engineering">Reverse Engineering</a>
+  - <a href="#reverse-engineering">Reverse Engineering</a>
   - <a href="#social-engineering">Social Engineering</a>
-  - <a href="#">Offensive Programming</a>
-  - <a href="#">Offensive Programming</a>
-  - <a href="#">Offensive Programming</a>
-  - <a href="#">Offensive Programming</a>
-  - <a href="#">Offensive Programming</a>
-  - <a href="#">Offensive Programming</a>
-  - <a href="#">Offensive Programming</a>
-  - <a href="#">Offensive Programming</a>
+  - <a href="#offensive-programming">Offensive Programming</a>
+  - <a href="#blockchain">Blockchain</a>
+  - <a href="#car-hacking">Car Hacking</a>
+  - <a href="#game-hacking">Game Hacking</a>
+  - <a href="#source-code-review"Source Code Review</a>
+  - <a href="#telecom">Telecom</a>
+  - <a href="#malware-development">Malware Development</a>
+  - <a href="#voip">VOIP</a>
+  - <a href="#rfid--sdr">RFID & SDR</a>
   
 <br>
 <br>
@@ -434,7 +435,7 @@
  - Books
   - <a href="https://www.amazon.com/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3">Bitcoin and Blockchain Security</a>
   - <a href="https://www.amazon.com/Blockchain-Technology-Hacking-Financial-Framework-ebook/dp/B07221VJ1S">Blockchain Technology And Hacking</a>
-  - <a href="https://www.packtpub.com/product/hands-on-cybersecurity-with-blockchain/9781788990189">Hands-On Cybersecurity with Blockchain </a>
+  - <a href="https://www.packtpub.com/product/hands-on-cybersecurity-with-blockchain/9781788990189">Hands-On Cybersecurity with Blockchain</a>
   - <a href=""></a>
   - <a href=""></a>
   
@@ -442,7 +443,7 @@
   - <a href="https://blockchaintrainingalliance.com/products/cbsp">Certified Blockchain Security Professional (CBSP)</a>
   - <a href="https://www.sans.org/cyber-security-courses/blockchain-smart-contract-security/">SEC554: Blockchain and Smart Contract Security</a>
   - <a href="https://academy.101blockchains.com/courses/certified-blockchain-security-expert">Blockchain Security Expert (CBSE)</a>
-  - <a href="https://hakin9.org/course/attack-and-defence-in-blockchain-technologies-w39/"Attack and Defence in Blockchain Technologies (W39)></a>
+  - <a href="https://hakin9.org/course/attack-and-defence-in-blockchain-technologies-w39/">Attack and Defence in Blockchain Technologies (W39)</a>
   - <a href="https://www.dasp.co/
 ">Decentralized Application Security Project </a>
 
@@ -600,7 +601,7 @@ VoIP pentest and SIP hacking</a>
 <br>
 <br>
 
-# Blockchain
+# RFID & SDR
  - Books
   - <a href="https://www.amazon.com/RFID-Security-Frank-Thornton-ebook/dp/B002C4KMKA">RFID Security</a>
   - <a href="https://www.amazon.com/Inside-Radio-Attack-Defense-Guide/dp/9811084467">Inside Radio: An Attack and Defense Guide</a>
