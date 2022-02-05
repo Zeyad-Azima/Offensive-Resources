@@ -436,11 +436,9 @@
 # Blockchain
 
  - Books
-  - <a href="https://www.amazon.com/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3">Bitcoin and Blockchain Security</a>
-  - <a href="https://www.amazon.com/Blockchain-Technology-Hacking-Financial-Framework-ebook/dp/B07221VJ1S">Blockchain Technology And Hacking</a>
-  - <a href="https://www.packtpub.com/product/hands-on-cybersecurity-with-blockchain/9781788990189">Hands-On Cybersecurity with Blockchain</a>
-  - <a href=""></a>
-  - <a href=""></a>
+   - <a href="https://www.amazon.com/Bitcoin-Blockchain-Security-Ghassan-Karame-ebook/dp/B01N7XNEF3">Bitcoin and Blockchain Security</a>
+   - <a href="https://www.amazon.com/Blockchain-Technology-Hacking-Financial-Framework-ebook/dp/B07221VJ1S">Blockchain Technology And Hacking</a>
+   - <a href="https://www.packtpub.com/product/hands-on-cybersecurity-with-blockchain/9781788990189">Hands-On Cybersecurity with Blockchain</a>
   
 - Courses
   - <a href="https://blockchaintrainingalliance.com/products/cbsp">Certified Blockchain Security Professional (CBSP)</a>
