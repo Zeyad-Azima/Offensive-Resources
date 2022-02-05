@@ -574,7 +574,7 @@
   
   
  - Labs
-  - No need for online labs you need to write a malicious code
+   - No need for online labs you need to write a malicious code
    
    
 <br>
@@ -595,7 +595,7 @@
 
 
  - Labs
-  - Setup your lab from the courses & books
+   - Setup your lab from the courses & books
 
 
 <br>
