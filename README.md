@@ -560,7 +560,7 @@
 # Malware Development
 
 - Books
- - You can read malware analysis books to get a deep understanding of malwares
+  - You can read malware analysis books to get a deep understanding of malwares
 
 
 - Courses
