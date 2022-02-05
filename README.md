@@ -21,7 +21,7 @@
 <br>
 
 # Mind Map
-<img src="img/OffResv3.png">
+<img src="img/OffensiveResourcesV3.png ">
 
 <br>
 <br>
