@@ -542,7 +542,7 @@
 
 
  - Books
-  - <a href="https://www.amazon.com/Security-Telecommunications-Networks-Advances-Information-ebook/dp/B002C73P2E
+   - <a href="https://www.amazon.com/Security-Telecommunications-Networks-Advances-Information-ebook/dp/B002C73P2E
 ">Security for Telecommunications Networks</a>
 
 
@@ -591,8 +591,7 @@
  - Courses
    - <a href="https://hakin9.org/product/w47-voip-pentesting/">VoIP Pentesting (W47)</a>
    - <a href="https://academy.ehacking.net/p/voip-hacking-penetration-testing-training">VoIP Hacking & Penetration Testing Training</a>
-   - <a href="https://www.voip.school/p/voip-hacking">
-VoIP pentest and SIP hacking</a>
+   - <a href="https://www.voip.school/p/voip-hacking">VoIP pentest and SIP hacking</a>
 
 
  - Labs
@@ -604,20 +603,20 @@ VoIP pentest and SIP hacking</a>
 
 # RFID & SDR
  - Books
-  - <a href="https://www.amazon.com/RFID-Security-Frank-Thornton-ebook/dp/B002C4KMKA">RFID Security</a>
-  - <a href="https://www.amazon.com/Inside-Radio-Attack-Defense-Guide/dp/9811084467">Inside Radio: An Attack and Defense Guide</a>
+   - <a href="https://www.amazon.com/RFID-Security-Frank-Thornton-ebook/dp/B002C4KMKA">RFID Security</a>
+   - <a href="https://www.amazon.com/Inside-Radio-Attack-Defense-Guide/dp/9811084467">Inside Radio: An Attack and Defense Guide</a>
 
 
  - Courses
-  - <a href="https://www.udemy.com/course/the-vulnerability-of-rfid-tag/">Ethical RFID Hacking</a>
-  - <a href="https://training.hackersera.com/p/?page=online-training#collapsesdr1">SDR Exploitation</a>
-  - <a href="https://www.udemy.com/course/software-defined-radio/">SDR for Ethical Hackers and Security Researchers </a>
-  - <a href="https://www.udemy.com/course/advance-sdr-for-ethical-hackers-security-researchers/">Advance SDR for Ethical Hackers Security Researchers 2.0</a>
-  - <a href="https://www.udemy.com/course/software-defined-radio-3/">SDR for Ethical Hackers and Security Researchers 3.0</a>
+   - <a href="https://www.udemy.com/course/the-vulnerability-of-rfid-tag/">Ethical RFID Hacking</a>
+   - <a href="https://training.hackersera.com/p/?page=online-training#collapsesdr1">SDR Exploitation</a>
+   - <a href="https://www.udemy.com/course/software-defined-radio/">SDR for Ethical Hackers and Security Researchers </a>
+   - <a href="https://www.udemy.com/course/advance-sdr-for-ethical-hackers-security-researchers/">Advance SDR for Ethical Hackers Security Researchers 2.0</a>
+   - <a href="https://www.udemy.com/course/software-defined-radio-3/">SDR for Ethical Hackers and Security Researchers 3.0</a>
 
 
  - Labs
-- Setup your lab from the courses & books
+   - Setup your lab from the courses & books
 
 <br>
 <br>
