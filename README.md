@@ -471,7 +471,6 @@
    - <a href="https://www.udemy.com/course/automotive-hacking-for-beginners/">Automotive hacking for Beginners</a>
    - <a href="https://cyberweek.ae/2021/courses/car-hacking-training-automotive-cybersecurity-and-in-vehicle-networks-for-beginners-hitb-cyberweek-2021/">Car Hacking Training: Automotive Cybersecurity and In-Vehicle Networks for Beginners</a>
    - <a href="https://quarkslab.com/training-practical-car-hacking/">Practical car hacking</a>
-   - <a href=""></a>
 
  - Labs
    - Setup your lab from the courses & books
