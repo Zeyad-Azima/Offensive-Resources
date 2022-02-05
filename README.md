@@ -518,19 +518,19 @@
 
 
  - Courses (Tutorials)
-   - <a href="https://www.youtube.com/playlist?list=PLOeXMuu5HOMoYdidoH6UlghfrVVkzZ_cf"></a>
-   - <a href="https://www.youtube.com/watch?v=fb-t3WWHsMQ"></a>
-   - <a href="https://www.youtube.com/watch?v=eQ1I0wzS8p0"></a>
-   - <a href="https://www.youtube.com/watch?v=kpf3UkMc5Y4"></a>
-   - <a href="https://www.youtube.com/watch?v=rAwxFw25x3E"></a>
-   - <a href="https://www.youtube.com/watch?v=A8CNysN-lOM"></a>
+    - <a href="https://www.youtube.com/playlist?list=PLOeXMuu5HOMoYdidoH6UlghfrVVkzZ_cf">SAST</a>
+    - <a href="https://www.youtube.com/watch?v=fb-t3WWHsMQ">How to do Code Review - The Offensive Security Way</a>
+    - <a href="https://www.youtube.com/watch?v=eQ1I0wzS8p0">How to find vulnerabilities by source code review</a>
+    - <a href="https://www.youtube.com/watch?v=kpf3UkMc5Y4">Finding Security Vulnerabilities through Code Review - The OWASP way</a>
+    - <a href="https://www.youtube.com/watch?v=rAwxFw25x3E">OWASP DevSlop Show: Security Code Review 101 with Paul Ionescu!</a>
+    - <a href="https://www.youtube.com/watch?v=A8CNysN-lOM">How to Analyze Code for Vulnerabilities</a>
 
 
  - Labs
    - <a href="https://pentesterlab.com/exercises?utf8=%E2%9C%93&query=code+review">Pentesterlab Code Review</a>
    - <a href="https://github.com/h4x0r101/Damn-Vulnerable-Source-Code">Damn Vulnerable Source Code</a>
    - <a href="https://github.com/uleroboticsgroup/SVCP4CDataset
-"></a>
+">SVCP4CDataset</a>
 
 
 
@@ -547,11 +547,11 @@
 
 
  - Courses
-  - <a href="https://www.youtube.com/watch?v=3XUo7UBn28o"></a>
-  - <a href="https://www.youtube.com/watch?v=_f1SByh6f4Q"></a>
+   - <a href="https://www.youtube.com/watch?v=3XUo7UBn28o">Mobile Network Hacking, IP Edition</a>
+   - <a href="https://www.youtube.com/watch?v=_f1SByh6f4Q">New Era in Telecom Hacking by Ali Abdollahi at BSides Toronto 2020</a>
 
  - Labs
-  - Setup your lab from the courses & books 
+   - Setup your lab from the courses & books 
 
 
 <br>
