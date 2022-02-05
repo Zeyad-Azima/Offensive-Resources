@@ -541,7 +541,7 @@
 
 
  - Books
-   - <a href="https://www.amazon.com/Security-Telecommunications-Networks-Advances-Information-ebook/dp/B002C73P2E
+    - <a href="https://www.amazon.com/Security-Telecommunications-Networks-Advances-Information-ebook/dp/B002C73P2E
 ">Security for Telecommunications Networks</a>
 
 
