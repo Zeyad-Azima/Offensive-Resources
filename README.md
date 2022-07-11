@@ -253,7 +253,7 @@
     - <a href="https://www.amazon.com/Mastering-Modern-Web-Penetration-Testing/dp/1785284584">Mastering Modern Web Penetration Testing</a>
     - <a href="https://www.amazon.com/Mastering-Kali-Linux-Penetration-Testing-ebook/dp/B0721264KJ">Mastering Kali Linux for Web Penetration Testing</a>
     - <a href="https://www.amazon.com/gp/product/B078MRV57M">Kali Linux Web Penetration Testing Cookbook</a>
-    - <a herf="https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3">Bug Bounty Bootcamp</a>
+    - <a href="https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3">Bug Bounty Bootcamp</a>
   
   - Courses
     - <a href="https://www.offensive-security.com/awae-oswe/">OSWE</a>
