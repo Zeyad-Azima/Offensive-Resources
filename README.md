@@ -303,7 +303,7 @@
 # API
   - Books
     - <a href="https://owasp.org/www-project-api-security/">OWASP API Security Project</a>
-    
+    - <a href="https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443">Hacking APIs</a>
   - Courses
     - <a href="https://hackerassociate.com/training-and-certification/oaes-offensive-api-exploitation-and-security-training/">OAES Offensive API Exploitation and Security</a>
     - <a href="https://www.pluralsight.com/courses/owasp-top-ten-api-security-playbook">OWASP Top 10: API Security Playbook</a>
