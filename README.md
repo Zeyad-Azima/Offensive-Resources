@@ -305,6 +305,9 @@
   - Books
     - <a href="https://owasp.org/www-project-api-security/">OWASP API Security Project</a>
     - <a href="https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443">Hacking APIs</a>
+    - <a href="https://www.manning.com/books/api-security-in-action">Api Secuirty in Action</a>
+    - <a href="https://www.manning.com/books/understanding-api-security">Understanding Api Security</a>
+  
   - Courses
     - <a href="https://hackerassociate.com/training-and-certification/oaes-offensive-api-exploitation-and-security-training/">OAES Offensive API Exploitation and Security</a>
     - <a href="https://www.pluralsight.com/courses/owasp-top-ten-api-security-playbook">OWASP Top 10: API Security Playbook</a>
