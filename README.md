@@ -297,6 +297,7 @@
     - <a href="https://pentester.land/cheatsheets/2018/10/12/list-of-Intentionally-vulnerable-android-apps.html">List of intentionally vulnerable Android apps</a>
     - <a href="https://securitycompass.github.io/iPhoneLabs/">ExploitMe Mobile iPhone Labs </a>
     - <a href="https://securitycompass.github.io/AndroidLabs/">ExploitMe Mobile Android Labs </a>
+    - <a href="https://8ksec.io/battle/">8kSec Battlegrounds </a>
 
 <br>
 <br>
@@ -432,6 +433,7 @@
       - <a href="">Network Sniffer</a>
       - <a href="">MAC address Changer</a>
       - <a href="">Network Scanner</a>
+      
 
 
 <br>
