@@ -15,7 +15,7 @@
  - Added VOIP security Section
  - Added RFID & SDR Section
 
-<img src="img/OffResv3.png">
+<img src=":/841ac5725bb443199f8507bc2b208699">
 
 <br>
 <br>
@@ -71,6 +71,9 @@
   - <a href="https://www.amazon.com/Hacking-Firewalls.../dp/B085LS67BH">Hacking: Hacking Firewalls & Bypassing Honeypot</a>
   - <a href="https://www.amazon.com/Red-Team-Development-Operations-practical/dp/B083XVG633">Red Team Development and Operations: A practical guide </a>
   - <a href="https://www.amazon.com/Hands-Red-Team-Tactics-operations/dp/1788995236">Hands-On Red Team Tactics</a>
+  - <a href="https://www.amazon.com/Pentesting-Active-Directory-Windows-based-Infrastructure/dp/1804611360">Pentesting Active Directory and Windows-based Infrastructure</a>
+  - <a href="https://www.amazon.com/Hacking-Active-Directory-Unveiling-Vulnerabilities/dp/B0DBGHMBL4">Hacking Active Directory: Unveiling Security Vulnerabilities </a>
+
   
   
 - Courses
@@ -91,6 +94,12 @@
   - <a href="https://www.pentesteracademy.com/gcb">PACES</a>
   - <a href="https://www.mile2.com/professional-ethical-hacker/">CPEH</a>
   - <a href="https://www.mile2.com/penetration-testing-engineer-outline/">CPTE</a>
+  - <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist">CPTS</a>
+  - <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-active-directory-pentesting-expert">CAPE</a>
+  - <a href="https://cyberwarfare.live/product/enterprise-lateral-movement-specialist/">Enterprise Lateral Movement Specialist</a>
+  - <a href="https://cyberwarfare.live/product/active-directory-red-team-specialist-ad-rts/">Active Directory Red Team Specialist</a>
+  
+  
   
 - Labs
   - <a href="https://www.amazon.com/Building-Virtual-Pentesting-Advanced-Penetration-ebook/dp/B01JLBMC8G">Building Virtual Pentesting Labs for Advanced Penetration Testing></a>
@@ -116,6 +125,8 @@
     - <a href="https://www.amazon.com/BackTrack-Wireless-Penetration-Testing-Beginners/dp/1849515581">BackTrack 5 Wireless Penetration Testing Beginner's Guide</a>
     - <a href="https://www.amazon.com/Linux-Wireless-Penetration-Testing-Cookbook/dp/1783554088">Kali Linux Wireless Penetration Testing Cookbook</a>
     - <a href="https://www.amazon.com/Mastering-Wireless-Penetration-Testing-Environments/dp/9352130839">Mastering Wireless Penetration Testing for Highly Secured Environments</a>
+	- <a href="https://notsosecure.com/security-training/advanced-infrastructure-hacking">Advanced Infrastructure Hacking</a>
+	
     
   - Courses
     - <a href="https://www.offensive-security.com/wifu-oswp/">OSWP</a>
@@ -254,6 +265,8 @@
     - <a href="https://www.amazon.com/Mastering-Kali-Linux-Penetration-Testing-ebook/dp/B0721264KJ">Mastering Kali Linux for Web Penetration Testing</a>
     - <a href="https://www.amazon.com/gp/product/B078MRV57M">Kali Linux Web Penetration Testing Cookbook</a>
     - <a href="https://www.amazon.com/Bug-Bounty-Bootcamp-Reporting-Vulnerabilities-ebook/dp/B08YK368Y3">Bug Bounty Bootcamp</a>
+	- <a href="https://www.amazon.com/Web-Hacking-Arsenal-Practical-Pentesting/dp/1032447192">Web Hacking Arsenal</a>
+	
   
   - Courses
     - <a href="https://www.offensive-security.com/awae-oswe/">OSWE</a>
@@ -263,6 +276,9 @@
     - <a href="https://www.sans.org/cyber-security-courses/advanced-web-app-penetration-testing-ethical-hacking/">SEC642</a>
     - <a href="https://hackersera.com/p/?page=online-training">Offensive bug bounty hunter part 1 &2 hackersera</a>
     - <a href="https://hakin9.org/product/web-application-attacks-and-api-hacking-w51/">Web Application Attacks and API Hacking (W51)</a>
+	- <a href="https://notsosecure.com/security-training/advanced-web-hacking">Advanced Web Hacking</a>
+	- <a href="https://academy.hackthebox.com/preview/certifications/htb-certified-web-exploitation-expert">CWEE</a>
+	
     
   - Labs
     - <a href="http://sourceforge.net/projects/bwapp/files/bee-box/">bWAPP</a>
@@ -284,6 +300,10 @@
     - <a href="https://www.amazon.com/Mobile-Application-Hackers-Handbook/dp/1118958500/">Mobile applicatons hacker's handbook</a>
     - <a href="https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X/">Android hacker's handbook/</a>
     - <a href="https://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123/">iOS Hacker's Handbook</a>
+	- <a href="https://www.amazon.com/Android-Security-Internals-Depth-Architecture/dp/1593275811">Android Security Internals</a>
+	- <a href="https://www.amazon.com/Android-Internals-Power-Users-View/dp/0991055586">Android Internals::Power User's View</a>
+	- <a href="https://www.amazon.com/Android-Internals-Developers-Jonathan-Levin/dp/0991055543">Android Internals::Developer's View</a>
+	
     
   - Courses
     - <a href="https://my.ine.com/CyberSecurity/learning-paths/eec5479e-a8d1-4803-817f-c016bb528639/mobile-application-penetration-testing-professional">eMAPT</a>
@@ -291,6 +311,10 @@
     - <a href="https://hackersera.com/p/?page=online-training">Offensive AndroHunter</a>
     - <a href="https://www.udemy.com/course/bug-bounty-hunting-practical-android-penetration-testing/">ANDROID Hacking & Penetration Testing</a>
     - <a href="https://www.udemy.com/course/hacking-and-pentesting-ios-applications/">Hacking and Pentesting iOS Applications </a>
+	- <a href="https://www.udemy.com/course/android-app-hacking-black-belt-edition/">Android App Hacking - Black Belt Edition</a>
+	- <a href="https://8ksec.io/offensive-mobile-reversing-and-exploitation/">Offensive Mobile Reversing And Exploitation</a>
+	- <a href="https://www.mobilehackinglab.com/afe">Android Userland Fuzzing & Exploitation </a>
+	
     
   - Labs
     - <a href="http://damnvulnerableiosapp.com/">Damn Vulnerable iOS Application (DVIA)</a>
@@ -307,6 +331,7 @@
     - <a href="https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443">Hacking APIs</a>
     - <a href="https://www.manning.com/books/api-security-in-action">Api Secuirty in Action</a>
     - <a href="https://www.manning.com/books/understanding-api-security">Understanding Api Security</a>
+	- <a href="https://www.amazon.com/Black-Hat-GraphQL-Attacking-Generation/dp/1718502842">Black Hat GraphQL</a>
   
   - Courses
     - <a href="https://hackerassociate.com/training-and-certification/oaes-offensive-api-exploitation-and-security-training/">OAES Offensive API Exploitation and Security</a>
@@ -314,6 +339,9 @@
     - <a href="https://ar-ar.facebook.com/officialhackersera/posts/1387454408290281?__tn__=-R">Offensive Api  penetration testing</a>
     - <a href="https://hakin9.org/product/web-application-attacks-and-api-hacking-w51/">Web Application Attacks and API Hacking (W51)</a>
     - <a href="https://hakin9.org/course/api-security-offence-and-defence/">API Security: Offence and Defence (W35)</a>
+	- <a href="https://academy.tcm-sec.com/p/hacking-apis">Practical API Hacking</a>
+	- <a href="https://www.apisecuniversity.com/">apisecuniversity</a>
+	
 
   - Labs
     - <a href="https://github.com/payatu/Tiredful-API">Tiredful API</a>
@@ -329,9 +357,15 @@
     - <a href="https://www.amazon.com/Hands-Penetration-Testing-Kali-Linux/dp/1789136725/">Hands-On AWS Penetration Testing with Kali Linux</a>
     - <a href="https://www.amazon.com/Pentesting-Azure-Applications-Definitive-Deployments/dp/1593278632/">Pentesting Azure Applications</a>
     - <a href="https://www.amazon.com/Mastering-Cloud-Penetration-Testing-Sehgal/dp/1786461234/">Mastering Cloud Penetration Testing</a>
+	
   
   - Courses
     - <a href="https://www.sans.org/cyber-security-courses/cloud-penetration-testing/">SEC588</a>
+	- <a href="https://cyberwarfare.live/product/aws-cloud-red-team-specialist-carts/">AWS Cloud Red Team Specialist</a>
+	- <a href="https://cyberwarfare.live/product/google-cloud-red-team-specialist-cgrts/">Google Cloud Red Team Specialist</a>
+	- <a href="https://cyberwarfare.live/product/multi-cloud-red-team-analyst-mcrta/">Multi-Cloud Red Team Analyst</a>
+	- <a href="https://cyberwarfare.live/product/hybrid-multi-cloud-red-team-specialist-chmrts/">Hybrid Multi-Cloud Red Team Specialist</a>
+	
   
   - Labs
     - <a href="https://github.com/juanjoSanz/aws-pentesting-lab">AWS Pen-Testing Laboratory</a>
