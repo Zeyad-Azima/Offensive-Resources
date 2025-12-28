@@ -120,6 +120,7 @@ Now You can visit the website and explore all the resources: https://offensive-r
   - <a href="https://www.vulnhub.com/">Vulnhub</a>
   - <a href="https://www.offensive-security.com/labs/individual/">Offensive Security Proving Grounds</a>
   - <a href="https://tryhackme.com">TryHackMe</a>
+  - <a href="https://pythoncyber.go.ro">CyberPython</a>
 
 <br>
 <br>
