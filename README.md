@@ -1236,6 +1236,7 @@ A curated collection of resources covering ATM security research, penetration te
   - [Dependabot](https://github.com/dependabot) - Automated dependency updates
   - [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/) - SCA tool
   - [Syft](https://github.com/anchore/syft) - SBOM generation tool
+  - [Vulert](https://vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more
   - [Grype](https://github.com/anchore/grype) - Vulnerability scanner for container images
 
 **Container Security**
