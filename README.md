@@ -845,6 +845,7 @@ A curated collection of resources covering ATM security research, penetration te
   * [Tonex Aviation Cybersecurity Training Bootcamp](https://www.tonex.com/training-courses/aviation-cybersecurity-training-bootcamp/)
   * [ICAO Foundations of Aviation Cybersecurity Leadership and Technical Management](https://igat.icao.int/ated/trainingCatalogue/Course/5131)
   * [AIAA Aviation Cybersecurity Management Course](https://aiaa.org/courses/aviation-cybersecurity/)
+  * [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
   * [UK CAA Aviation Cybersecurity Oversight Training](https://caainternational.com/course/aviation-cybersecurity-oversight/)
   * [Aviation Cybersecurity Training (Airline-Cybersecurity.ch)](https://www.airline-cybersecurity.ch/Airline_Cybersecurity_Training.html)
   * [Aviation eLearning: Cyber Security in Aviation](https://ael.aero/courses/general/cyber-security-in-aviation/)
