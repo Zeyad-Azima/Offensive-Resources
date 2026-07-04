@@ -1087,6 +1087,7 @@ A curated collection of resources covering ATM security research, penetration te
 ## Tools & Frameworks
 
   * [Cybersecurity AI (CAI) Framework (GitHub)](https://github.com/aliasrobotics/cai)
+  * [Darkmoon - Open Source Autonomous AI Penetration Testing Engine (GitHub)](https://github.com/ASCIT31/Dark-Moon)
   * [LLM Guard by Protect AI (GitHub)](https://github.com/protectai/llm-guard)
   * [LlamaFirewall (GitHub)](https://github.com/llamafirewall/llamafirewall)
   * [Garak - LLM Security Probing Tool (GitHub)](https://github.com/leondz/garak)
