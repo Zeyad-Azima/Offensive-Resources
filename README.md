@@ -117,6 +117,7 @@ Now You can visit the website and explore all the resources: https://offensive-r
   - <a href="https://github.com/indigos33k3r/portainer-pentest-lab">Offensive Security Lab</a>
   - <a href="https://attackdefense.pentesteracademy.com/search">Pentesteracademy Labs</a>
   - <a href="https://www.hackthebox.eu/">Hack The Box</a>
+  - <a href="https://labex.io/learn/cybersecurity">LabEx Cybersecurity Labs</a>
   - <a href="https://www.vulnhub.com/">Vulnhub</a>
   - <a href="https://www.offensive-security.com/labs/individual/">Offensive Security Proving Grounds</a>
   - <a href="https://tryhackme.com">TryHackMe</a>
