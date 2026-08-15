@@ -1678,7 +1678,7 @@ A curated collection of resources covering ATM security research, penetration te
   * [Qualcomm Security Bulletins: Android Kernel & Baseband Vulnerabilities](https://docs.qualcomm.com/product/publicresources/securitybulletin/june-2024-bulletin.html)
   * [Android Security: Attacks and Defenses (CRC Press) by Anmol Misra & Abhishek Dubey](https://www.routledge.com/Android-Security-Attacks-and-Defenses/Misra-Dubey/p/book/9781439896464)
   * [Fuzzing the Android Kernel (Blackhat 2020 Whitepaper)](https://i.blackhat.com/USA-20/Wednesday/us-20-GonzalezCabrera-Dif-Fuzzing-The-Android-Kernel.pdf)
-  * [Exploiting Android Kernel Vulnerabilities (Phrack Magazine)](http://phrack.org/issues/68/6.html)
+  * [Exploiting Android Kernel Vulnerabilities (Phrack Magazine)](https://phrack.org/issues/68/6.html)
   * [Advanced Android Exploitation Techniques (SyScan 2014)](https://www.slideshare.net/i0n1c/syscan-2014-advanced-android-exploitation)
   * [Bypassing Android Security Mechanisms (USENIX Security 2023)](https://www.usenix.org/conference/usenixsecurity23/presentation/android)
   * [Android Binder Exploitation: Attacking Inter-Process Communication (Google Project Zero)](https://googleprojectzero.blogspot.com/2019/11/bad-binder-android-in-wild-exploit.html)
@@ -3871,6 +3871,7 @@ A curated collection of resources covering ATM security research, penetration te
   * **[OSINT-Search](https://github.com/am0nt31r0/OSINT-Search)** - Custom search queries for investigators
   * **[IntelOwl](https://github.com/intelowlproject/IntelOwl)** - Intelligence orchestration platform
   * **[OSINT Combine](https://www.osintcombine.com/tools)** - Commercial OSINT platform and tools
+  * **Xquik** Independent X (Twitter) data API for search, follower export, monitors, and MCP. https://github.com/Xquik-dev/x-twitter-scraper
 
 -----
 
