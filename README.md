@@ -183,6 +183,7 @@ Now You can visit the website and explore all the resources: https://offensive-r
 <br>
 
 # Exploit Development
+  - [Exploit Pack](https://www.exploitpack.com/products/exploit-pack) - Commercial exploit-development and initial-access framework with exploit discovery, module execution, payload construction, remote testing, debugging, and result collection.
   - Books
     - <a href="https://www.amazon.com/Penetration-Testing-Shellcode-network-level-vulnerabilities-ebook/dp/B076H9DD9N">Penetration Testing with Shellcode</a>
     - <a href="https://www.amazon.com/Shellcoders-Handbook-Discovering-Exploiting-Security-ebook/dp/B004P5O38Q/">The Shellcoder's Handbook</a>
