@@ -1180,6 +1180,7 @@ A curated collection of resources covering ATM security research, penetration te
   - [Google Cloud Security Blog](https://cloud.google.com/blog/products/identity-security)
   - [GitLab Blog: DevSecOps](https://about.gitlab.com/blog/categories/devsecops/)
   - [Snyk Blog](https://snyk.io/blog/)
+  - [Vulert Blog](https://vulertsecurity.com/blog/)
   - [Practical DevSecOps: Top 15 DevSecOps Best Practices for 2025](https://www.practical-devsecops.com/devsecops-best-practices/)
   - [GeeksforGeeks: 10 DevSecOps Best Practices for 2025](https://www.geeksforgeeks.org/devops/devsecops-best-practices/)
   - [Pynt.io: DevSecOps Principles, Tools, and Best Practices [2025 Guide]](https://www.pynt.io/learning-hub/devsecops/devsecops-principles-tools-and-best-practices-2025-guide)
@@ -1236,6 +1237,7 @@ A curated collection of resources covering ATM security research, penetration te
   - [Dependabot](https://github.com/dependabot) - Automated dependency updates
   - [OWASP Dependency-Check](https://owasp.org/www-project-dependency-check/) - SCA tool
   - [Syft](https://github.com/anchore/syft) - SBOM generation tool
+  - [Vulert](https://vulert.com) - Vulert secures your software supply chain by detecting and continuously monitoring vulnerabilities and malicious open-source dependencies 
   - [Grype](https://github.com/anchore/grype) - Vulnerability scanner for container images
 
 **Container Security**
